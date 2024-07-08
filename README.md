@@ -3,9 +3,9 @@ Visit : - https://youtu.be/99a2kWJhOM8
 or (A shorter video) : - https://youtube.com/shorts/dwHn6gCumkY?feature=share
 
 
-# LED Fractal Node and Brightness Plotter
+# Coupled LEDs and Brightness plotting
 
-This project consists of a Python script for plotting the brightness data from an LED fractal node setup, as well as an Arduino sketch to control the LEDs.
+This project consists of a Python script for plotting the brightness data from the synchronous LED fractal node setup, as well as an Arduino sketch to control the LEDs.
 
 ## Contents
 

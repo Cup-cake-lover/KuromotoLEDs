@@ -50,7 +50,9 @@ The Arduino sketch is used to run 64 LEDs in a fractal node form. The LEDs are c
 
 The sketch will automatically run and control the LED strips to create a fractal node pattern. 
 
-## Python Script: `Brightness_synchrony_finder.py`
+## Python Script: Brightness_synchrony_finder.py
+
+Can be accessed in /OpenCV_files
 
 ### Description
 

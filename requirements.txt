@@ -1,0 +1,7 @@
+argparse
+numpy
+opencv-python
+Pillow
+pandas
+matplotlib
+shutup

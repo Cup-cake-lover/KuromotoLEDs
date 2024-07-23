@@ -2,6 +2,9 @@ The repository contains Circuit diagrams and source code for the Kuramoto LED mo
 Visit : - https://youtu.be/99a2kWJhOM8
 or (A shorter video) : - https://youtube.com/shorts/dwHn6gCumkY?feature=share
 
+cite this work - `Prasad, S.V.H., Thapar, V. & Ramaswamy, R. Digital Fireflies. Reson 29, 765–777 (2024). https://doi.org/10.1007/s12045-024-0765-2`
+
+
 
 # Coupled LEDs and Brightness plotting
 

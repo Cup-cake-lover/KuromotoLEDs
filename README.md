@@ -31,7 +31,7 @@ The Arduino sketch is used to run 64 LEDs in a fractal node form. The LEDs are c
 
 ### Pin Configuration
 
-
+```c++
 #define NUM_LEDS 8
 #define LED_PIN_1 6
 #define LED_PIN_2 8
@@ -41,7 +41,7 @@ The Arduino sketch is used to run 64 LEDs in a fractal node form. The LEDs are c
 #define LED_PIN_6 3
 #define LED_PIN_7 4
 #define LED_PIN_8 5
-
+```
 
 
 ### Installation
